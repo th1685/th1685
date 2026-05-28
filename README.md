@@ -1,6 +1,8 @@
-## Hi there 👋
+I'm a PhD student in mathematics in the UK. My research uses techniques from algebraic & combinatorial topology to investigate the modular representation theory of certain diagram algebras.
 
-<!--
+I am an intermediate player of chess and bridge. I enjoy hiking and the outdoors, and learning about maritime history and actuarial science $🪙\sum_{n=0}^\infty ⏳^n = \frac{🪙}{1-⏳}$.
+
+<!--## Hi there 👋
 **th1685/th1685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
